@@ -2,7 +2,7 @@
 
 ## Exercise Checklist
 
-- [ ] 00 – Deploying to a Testnet
+- [x] 00 – Deploying to a Testnet
 - [ ] 01 – Control Structures
 - [ ] 02 – Storage
 - [ ] 03 – Arrays
@@ -21,8 +21,14 @@
 _Add your verified contract addresses from Base here as you complete each exercise._
 
 ### 00 – Deploying to a Testnet
-- Contract: 
-- Verified: 
+- Contract: 0x92A6aC3344F6dB863f17f1d6dBF4e7059CE5e9c7
+- Verified: Earned deployment NFT on Base Learn
+
+#### Notes:
+- Successfully deployed BasicMath to Base Sepolia.
+- Implemented correct overflow/underflow logic using (result, error) pattern.
+- Passed Base Learn tests for add/sub logic.
+ 
 
 ### 01 – Control Structures
 - Contract: 
