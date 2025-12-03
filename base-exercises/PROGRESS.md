@@ -3,7 +3,7 @@
 ## Exercise Checklist
 
 - [x] 00 – Deploying to a Testnet
-- [ ] 01 – Control Structures
+- [x] 01 – Control Structures
 - [ ] 02 – Storage
 - [ ] 03 – Arrays
 - [ ] 04 – Mappings
@@ -31,8 +31,13 @@ _Add your verified contract addresses from Base here as you complete each exerci
  
 
 ### 01 – Control Structures
-- Contract: 
-- Verified: 
+- Contract: 0x92A6aC3344F6dB863f17f1d6dBF4e7059CE5e9c7
+- Verified: Passed all fizzBuzz + doNotDisturb logic tests
+
+#### Notes:
+- Implemented precise control-flow ordering for Base Learn tests.
+- Returned correct string branches for all time windows.
+- Used custom error `AfterHours(uint)` and panic via assert(false).
 
 ### 02 – Storage
 - Contract: 
